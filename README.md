@@ -14,7 +14,7 @@ The number of absorbers per unit redshift (dN/dz) and per unit comoving pathleng
 
 The package works in two parts; catalog completeness calculations, and calculation of dN/dz and dN/dX.
 
-📘 See the full math-formatted notebook for completeness: [completeness_motivation.ipynb](coming soon)
+📘 See the full math-formatted notebook for completeness: [completeness_motivation.ipynb](completeness_motivation.ipynb)
 
 📘 See the full math-formatted notebook for dN/dz and dN/dX: [dNdz_motivation.ipynb](coming  soon)
 
